@@ -1,4 +1,5 @@
 Mini-project in Computer Science: UNO Game
+●	Development in Java using OOP – Programming of a GUI.
 
 Authors: EL KOURI Malak, MASCARO Lauriane, TAKI Moinesha, BETTAN Etienne
 Group: 44
